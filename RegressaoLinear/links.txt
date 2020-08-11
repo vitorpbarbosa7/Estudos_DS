@@ -1,0 +1,8 @@
+Regressão linear no geral: (Aprender OLS)
+https://www.youtube.com/watch?v=zIlOwe-qfKM&t=972s
+
+Ridge Regression:
+https://www.youtube.com/watch?v=5asL5Eq2x0A0
+
+Para isso, precisa-se primeiro entender que:
+https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/13/lecture-13.pdf
