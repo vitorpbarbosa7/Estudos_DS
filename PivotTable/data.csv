@@ -1,0 +1,6 @@
+Account,Name,Rep,Manager,Product,Quantity,Price,Status
+714466,Trantow-Barrows,Craig Booker,Debra Henley,CPU,1,30000,presented
+714466,Trantow-Barrows,Craig Booker,Debra Henley,Software,1,10000,presented
+714466,Trantow-Barrows,Craig Booker,Debra Henley,Maintenance,2,5000,pending
+737550,Fritsch Russel and Anderson,Craig Booker,Debra Henley,CPU,1,35000,declined
+146832,Kiehn-Spinka,Daniel Hilton,Debra Henley,CPU,2,65000,won
